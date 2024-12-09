@@ -126,7 +126,7 @@ def send_weather_email(recipient: str, weather_report: str) -> bool:
             url,
             json=data,
             headers={
-                "Authorization": "re_VLNK2AwR_DGLq1kW5a6sTU1hscZEgKiRH",  # Replace with actual API key from resend.com
+                "Authorization": "---",  # Replace with actual API key from resend.com
                 "Content-Type": "application/json"
             }
         )
