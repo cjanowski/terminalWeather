@@ -118,4 +118,4 @@ This project is licensed under the MIT License - because sharing weather should 
      /  \        a silly disguise! 
 ```
 
-Made with ❤️ and probably too much ☕ by Your Name Here
+Made with ❤️ and probably too much ☕ by Cory Janowski
