@@ -1,5 +1,5 @@
 # terminalWeather
-# 🌈 WeatherWizard: Your CLI Weather Companion! 🌈
+# 🌈 terminalWeather: Your CLI Weather Companion! 🌈
 
 ```
                        .-~~~-.
