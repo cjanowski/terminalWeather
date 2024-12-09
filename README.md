@@ -37,16 +37,16 @@ WeatherWizard is your friendly neighborhood weather app that turns boring weathe
 
 ```bash
 # Clone this magical repository
-git clone https://github.com/your-username/weatherwizard.git
+git clone https://github.com/your-username/terminalWeather.git
 
 # Enter the wizard's chamber
-cd weatherwizard
+cd terminalWeather
 
-# Install the magical dependencies
+# Install the magical dependencies(If needed)
 pip install -r requirements.txt
 
 # Wave your wand (or just run the script)
-python weather_app.py
+python weather.py
 ```
 
 ## 🎮 How to Weather Like a Pro
@@ -55,6 +55,7 @@ python weather_app.py
 2. Enter your ZIP code (sorry, crystal balls not supported yet)
 3. Watch the magic happen! ✨
 4. Optionally, get the report via email (because sharing is caring)
+<!-- Email will need your own resend.com API key -->
 
 ## 🌟 Weather States We Support
 
