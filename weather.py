@@ -1,3 +1,6 @@
+## Cory Janowski
+## 12/14/2024
+## CLI Weather App with Optional Email Support
 import requests
 from datetime import datetime
 import os
@@ -18,7 +21,7 @@ COLORS = {
     'ORANGE': '\033[38;5;208m',
     'LIGHT_BLUE': '\033[38;5;39m',
     'DARK_BLUE': '\033[38;5;27m',
-    'GRAY': '\033[38;5;245m'
+    'GRAY': '\033[38;5;245m',
 }
 
 # Enhanced ASCII art collection
