@@ -24,6 +24,7 @@ COLORS = {
     'GRAY': '\033[38;5;245m',
 }
 
+
 # Enhanced ASCII art collection
 WEATHER_ASCII = {
     'clear_day': f"""{COLORS['YELLOW']}
