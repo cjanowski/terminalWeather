@@ -19,7 +19,7 @@
 
 ## 🪄 What's This Magic?
 
-terminalWeather is your friendly neighborhood weather app that turns boring weather data into a delightful CLI experience! With ASCII art that would make your terminal proud and colors that would make a rainbow jealous, we're here to make checking the weather actually fun!
+terminalWeather is your friendly neighborhood weather app that turns boring weather data into a delightful CLI experience! With ASCII art that would make your terminal proud and colors that would make a rainbow jealous, we're here to make checking the weather actually fun! Why leave Terminal?
 
 ## ✨ Features That'll Blow You Away (Pun Intended)
 
